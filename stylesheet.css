@@ -223,6 +223,10 @@ div.clipart {
     
 }
 
+.card-img-top {
+    padding: 0.25em;
+}
+
 .card-header {
     display: block;
     background-color: #006666;
