@@ -17,7 +17,7 @@
         display: none;
     }
     .profile-picture {
-        max-width: 6rem;
+        max-width: 16rem;
     }
     div.container.container-mini {
         display: flex;
@@ -56,7 +56,7 @@
         justify-content: center;
     }
     .profile-picture {
-        max-width: 6rem;
+        max-width: 16rem;
     }
     .body-stuff{
         padding-left: 0.5em;
@@ -357,6 +357,7 @@ background-color: white;
     border: lightcyan .5rem ;
     border-style:ridge;
     justify-content: center;
+    margin-bottom: 1em;
   }
   
   a.card-link:hover{
